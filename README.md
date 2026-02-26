@@ -56,4 +56,4 @@ Full CRUD operations on all tables
 
 pip install -r requirements.txt
 
-streamlit run app.py
+streamlit run streamlit.py
